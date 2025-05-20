@@ -1,0 +1,55 @@
+
+
+
+
+.title-name {
+    color: darkblue;
+    text-align: center;
+}
+
+.biografia {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+    background-color: rgb(88, 122, 184);
+    color: white;
+    padding: 1em;
+    border-radius: 10px;
+    gap: 1em;
+}
+
+#bio {
+    font-size: 1.2em;
+}
+
+.titulo-lista {
+    width: 100%;
+}
+
+.lista {
+    width: 95%;
+}
+
+.lista li {
+    margin-bottom: 10px;
+}
+
+.imagem-hobby {
+    border-radius: 10px;
+}
+
+.link-ytb:hover {
+    border: 5px solid red;
+    border-radius: 10px;
+}
+
+.tabela-page {
+    border-radius: 10px;
+    width: 40%;
+    border: 5px solid rgb(88, 122, 184);
+}
+
+.tabela-page tr td {
+    text-align: center;
+}
